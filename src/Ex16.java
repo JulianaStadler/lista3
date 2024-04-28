@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Ex16 {
-    public static void main(String[] args) {
+    public static void exRun(){
         // 16. Escrever um programa para uma empresa que decide dar um reajuste a seus 584 funcionários
         // de acordo com os seguintes critérios:
         // a) 50% para aqueles que ganham menos do que três salários mínimos;

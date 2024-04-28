@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Ex12 {
-    public static void main(String[] args) {
+    public static void exRun(){
         // 12. A concessionária de veículos “CARANGO VELHO” está vendendo os seus veículos com
         // desconto. Faça um programa que calcule e exiba o valor do desconto e o valor a ser pago pelo
         // cliente de vários carros. O desconto deverá ser calculado de acordo com o ano do veículo. Até 2000

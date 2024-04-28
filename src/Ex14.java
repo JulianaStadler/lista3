@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Ex14 {
-    public static void main(String[] args) {
+    public static void exRun(){
         // 14. Faça um programa que receba o preço de custo e o preço de venda de 40 produtos. Mostre
         // como resultado se houve lucro, prejuízo ou empate para cada produto. Informe média de preço de
         // custo e do preço de venda.

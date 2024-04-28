@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Ex6 {
-    public static void main(String[] args) {
+    public static void exRun(){
         // 6. Faça um programa que receba o preço de custo de um produto e mostre o valor de venda. 
         // Sabese que o preço de custo receberá um acréscimo de acordo com um percentual informado pelo
         // usuário.

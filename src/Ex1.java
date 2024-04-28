@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Ex1 {
-    public static void main(String[] args) {
+    public static void exRun(){
         // 1. Escrever um programa que leia o nome de um aluno e as notas das três provas que ele obteve
         // no semestre. No final informar o nome do aluno e a sua média (aritmética).
         Scanner scanner = new Scanner(System.in);

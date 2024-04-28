@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Ex18 {
-    public static void main(String[] args) {
+    public static void exRun(){
         // 18. Faça um programa que receba o nome a idade, o sexo e salário fixo de um funcionário. Mostre
         // o nome e o salário líquido acrescido do abono conforme o sexo e a idade.
         Scanner scanner = new Scanner(System.in);

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Ex2 {
-    public static void executar(){
+    public static void exRun(){
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Insira a distancia percorrida: ");

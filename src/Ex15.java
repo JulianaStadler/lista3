@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Ex15 {
-    public static void main(String[] args) {
+    public static void exRun(){
         // 15. A concessionária de veículos “CARANGO” está vendendo os seus veículos com desconto.
         // Faça um programa que calcule e exiba o valor do desconto e o valor a ser pago pelo cliente. 
         // O desconto deverá ser calculado sobre o valor do veículo de acordo com o combustível 

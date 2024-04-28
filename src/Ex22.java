@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Ex22 {
-    public static void main(String[] args) {
+    public static void exRun(){
         // 22. Faça um programa que calcule o valor da conta de luz de uma pessoa. Sabe-se que o cálculo
         // da conta de luz segue a tabela abaixo:
         // Tipo de Cliente Valor do KW/h

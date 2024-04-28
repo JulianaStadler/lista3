@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Ex25 {
-    public static void main(String[] args) {
+    public static void exRun(){
         // 25. Dado o nome de um estudante, com o respectivo número de matrícula e as três notas acima
         // mencionadas, desenvolva um programa para calcular a nota final e a classificação de cada
         // estudante. A classificação é dada conforme a lista abaixo:

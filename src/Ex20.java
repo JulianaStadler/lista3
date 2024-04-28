@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Ex20 {
-    public static void main(String[] args) {
+    public static void exRun(){
         // 20. A escola “APRENDER” faz o pagamento de seus professores por hora/aula. Faça um programa
         // que calcule e exiba o salário de um professor. Sabe-se que o valor da hora/aula segue a tabela
         // abaixo:

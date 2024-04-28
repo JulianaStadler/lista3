@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Ex19 {
-    public static void main(String[] args) {
+    public static void exRun(){
         // 19. Escrever um programa que leia três valores inteiros e verifique se eles podem ser os lados de
         // um triângulo. Se forem, informar qual o tipo de triângulo que eles formam: equilátero, isóscele ou
         // escaleno.

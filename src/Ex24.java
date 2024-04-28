@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Ex24 {
-    public static void main(String[] args) {
+    public static void exRun(){
         // 24. Em um curso de Ciência da Computação a nota do estudante é calculada a partir de três notas
         // atribuídas, respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame
         // final. As notas variam, de 0 a 10 e a nota final é a média ponderada das três notas mencionadas.

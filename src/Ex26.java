@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Ex26 {
-    public static void main(String[] args) {
+    public static void exRun(){
         // 26. Uma seguradora possui nove categorias de seguro baseadas na idade e ocupação do segurado.
         // Somente pessoas com pelo menos 17 anos e não mais que 70 anos podem adquirir apólices de
         // seguro. Quanto às classes de ocupações, foram definidos três grupos de risco: baixo, médio e alto.
