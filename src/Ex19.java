@@ -17,7 +17,8 @@ public class Ex19 {
         Ex19_Triangulo triangulo = new Ex19_Triangulo(lado1, lado2, lado3);
         triangulo.qualTriangulo();
 
-        scanner.close();
+        
+        return;
     }
     
 }

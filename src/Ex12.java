@@ -27,7 +27,8 @@ public class Ex12 {
         }while(!continuar.equals("N"));
 
 
-        scanner.close();
+        
+        return;
     }
     
 }

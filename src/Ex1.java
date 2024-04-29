@@ -23,7 +23,7 @@ public class Ex1 {
 
         System.out.println("O(a) aluno(a) " + exmedia.getNome() + " obteve a media " + exmedia.mostraMedia(notas.length));
 
-        scanner.close();
+        return;
     }
 
 }

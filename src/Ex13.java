@@ -53,7 +53,8 @@ public class Ex13 {
             militar.resultadoMilitar();
         }
 
-        scanner.close();
+        
+        return;
     }
     
 }

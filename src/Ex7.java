@@ -17,7 +17,8 @@ public class Ex7 {
 
         System.out.println("O valor que o consumidor deverá pagar: "+ impostos.valorFinal());
 
-        scanner.close();
+        
+        return;
     }
     
 }

@@ -27,7 +27,8 @@ public class Ex22 {
         Ex22_Energia energia = new Ex22_Energia(cliente, consumo);
         System.out.println("\nValor da conta de luz: R$ " + energia.valor());
 
-        scanner.close();
+        
+        return;
     }
     
 }

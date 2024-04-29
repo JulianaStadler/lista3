@@ -22,6 +22,7 @@ public class Ex14 {
 
         produto.mostrarMedias(nProdutos);
 
-        scanner.close();
+        
+        return;
     }
 }

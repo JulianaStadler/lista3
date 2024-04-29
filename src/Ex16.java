@@ -18,7 +18,8 @@ public class Ex16 {
 
             funcionarios.reajuste(i+1);
         }
-        scanner.close();
+        
+        return;
     }
     
 }

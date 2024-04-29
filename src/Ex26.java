@@ -33,7 +33,8 @@ public class Ex26 {
 
         Ex26_Risco risco = new Ex26_Risco(nome, idade, grupoRisco);
         System.out.println(risco.getNome()+" de "+risco.getIdade()+" anos com risco "+risco.getGrupoRisco()+" esta classificada na categoria "+risco.qualificarRisco());
-        scanner.close();
+        
+        return;
     }
     
 }

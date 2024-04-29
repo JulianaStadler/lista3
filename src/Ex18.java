@@ -28,7 +28,8 @@ public class Ex18 {
         Ex18_Funcionario funcionario = new Ex18_Funcionario(nome, idade, sexo, salario);
         funcionario.calcAbono();
         
-        scanner.close();
+        
+        return;
     }
     
 }

@@ -13,7 +13,8 @@ public class Ex5 {
 
         System.out.println("Cada prestação terá um valor de: R$"+ compra.prestacao());
 
-        scanner.close();
+        
+        return;
     }
     
 }

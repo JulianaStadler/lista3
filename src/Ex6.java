@@ -17,9 +17,8 @@ public class Ex6 {
 
         System.out.println("Valor depois do desconto é de: "+ exdesconto.desconto() );
 
-
-
-        scanner.close();
+        
+        return;
     }
     
 }

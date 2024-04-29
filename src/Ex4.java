@@ -17,6 +17,7 @@ public class Ex4 {
 
         System.out.println("Você tem R$"+dolar.valorReal()+" referente ao dinheiro em sua carteira.");
 
-        scanner.close();
+        
+        return;
     }
 }

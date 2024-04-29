@@ -16,7 +16,8 @@ public class Ex10 {
             System.out.println(exidade.maiorOuMenor());
         }
 
-        scanner.close();
+        
+        return;
     }
     
 }

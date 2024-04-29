@@ -14,8 +14,8 @@ public class Ex2 {
 
         System.out.println("O consumo medio do carro é: "+ automovel.calcularMedia());
 
-        scanner.close();
-
+        
+        return;
 
     }
 }

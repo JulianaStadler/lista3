@@ -24,7 +24,8 @@ public class Ex24 {
 
         ponderada.imprimeMediaPond();
 
-        scanner.close();
+        
+        return;
     }
     
 }

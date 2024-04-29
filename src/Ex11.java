@@ -27,7 +27,8 @@ public class Ex11 {
         }
         System.out.println(total.quantidade());
 
-        scanner.close();
+        
+        return;
     }
     
 }

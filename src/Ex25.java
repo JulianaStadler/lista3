@@ -35,7 +35,7 @@ public class Ex25 {
 
         mediafinal.imprimeMediaPond();
 
-        scanner.close();
+        return;
     }
     
 }

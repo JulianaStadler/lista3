@@ -14,7 +14,8 @@ public class Ex9 {
         Ex9_Intervalo intervalo = new Ex9_Intervalo(numeros);
 
         System.out.println(intervalo.intervalo()+" número(s) est(á)ão no intervalo");
-        scanner.close();
+        
+        return;
     }
     
 }

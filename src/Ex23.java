@@ -30,7 +30,8 @@ public class Ex23 {
         System.out.println(peso.getNome()+" seu peso ideal é: " + peso.contaPeso());
 
 
-        scanner.close();
+        
+        return;
     }
     
 }

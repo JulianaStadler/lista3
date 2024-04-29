@@ -22,7 +22,8 @@ public class Ex8 {
 
         System.out.println("O(a) aluno(a) "+media.getNome()+" foi "+media.media());
 
-        scanner.close();
+        
+        return;
     }
     
 }

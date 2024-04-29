@@ -18,7 +18,8 @@ public class Ex21 {
         Ex21_Nadador nadador = new Ex21_Nadador(idade);
         System.out.println("Categoria do nadador: " + nadador.categoria());
 
-        scanner.close();
+        
+        return;
     }
     
 }

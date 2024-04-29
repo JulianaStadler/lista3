@@ -20,8 +20,8 @@ public class Ex17 {
         Ex17_Salario exsalario = new Ex17_Salario(nome, salario, salariominimo, reajuste);
         exsalario.reajuste();
         
-
-        scanner.close();
+        
+        return;
     }
     
 }

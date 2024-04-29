@@ -18,7 +18,8 @@ public class Ex3 {
 
         System.out.println("O vendedor "+ vendedor.getNome() +"\nTerá um salário no fim do mês de "+vendedor.fimMes());
 
-        scanner.close();
+        
+        return;
     }
     
 }

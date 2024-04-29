@@ -34,7 +34,8 @@ public class Ex15 {
             }
         }while(!(carros.getValor() == 0));
         
-        scanner.close();
+        
+        return;
     }
     
 }

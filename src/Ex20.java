@@ -30,7 +30,8 @@ public class Ex20 {
         Ex20_Professor professor = new Ex20_Professor(nivel, horas);
         professor.calcSalario();
 
-        scanner.close();
+        
+        return;
     }
     
 }
